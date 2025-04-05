@@ -1,4 +1,4 @@
-# 📞 Telco Customer Churn Prediction using ANN
+# 📞 Telco Customer Churn Classifier using ANN
 
 ## 📌 Overview  
 This project uses an Artificial Neural Network (ANN) to predict customer churn from the **IBM Telco Customer Churn** dataset. The model helps identify customers who are likely to leave, enabling the telecom business to proactively implement **customer retention strategies**.
